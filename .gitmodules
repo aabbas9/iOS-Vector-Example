@@ -1,0 +1,9 @@
+[submodule "Lib/MGImageUtilities"]
+	path = Lib/MGImageUtilities
+	url = https://github.com/mattgemmell/MGImageUtilities.git
+[submodule "Lib/UIImage-categories"]
+	path = Lib/UIImage-categories
+	url = https://github.com/krzak/UIImage-categories.git
+[submodule "Lib/UIImage-PDF"]
+	path = Lib/UIImage-PDF
+	url = https://github.com/mindbrix/UIImage-PDF.git
