@@ -1,8 +1,8 @@
-# osx noise
+# OS X
 .DS_Store
 ._*
 
-# xcode noise
+# Xcode
 build/*
 *.mode1
 *.mode1v3
@@ -14,9 +14,9 @@ build/*
 xcuserdata
 xcshareddata
 
-# svn & cvs
+# SVN, CVS
 .svn
 CVS
 
-# appcode noise
+# AppCode
 .idea
