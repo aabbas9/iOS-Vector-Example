@@ -11,4 +11,4 @@ $ git clone --recursive https://github.com/bracken-dev/iOS-Vector-Example.git
 
 ### PDF Howto
 
-[UIImage-PDF](https://github.com/mindbrix/UIImage-PDF) didn't like the PDF that Illustrator made. So, instead of saving to PDF, I saved to EPS, opened it in Preview, and saved to PDF. I also used Panic's [ShrinkIt](http://www.panic.com/blog/2010/02/shrinkit-1-0/).
+[UIImage-PDF](https://github.com/mindbrix/UIImage-PDF) didn't like the PDF file that Illustrator made. So, instead of saving to PDF, I saved to EPS, opened it in Preview, and saved to PDF. I also used Panic's [ShrinkIt](http://www.panic.com/blog/2010/02/shrinkit-1-0/) on the PDF file.
