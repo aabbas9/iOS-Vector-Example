@@ -9,4 +9,6 @@ Submodules used are [MGImageUtilities](http://github.com/mattgemmell/MGImageUtil
 $ git clone --recursive https://github.com/bracken-dev/iOS-Vector-Example.git
 ````
 
-*-- [bracken-dev@GitHub](http://github.com/bracken-dev)*
+### PDF Howto
+
+[UIImage-PDF](https://github.com/mindbrix/UIImage-PDF) didn't like the PDF that Illustrator made. So, instead of saving to PDF, I saved to EPS, opened it in Preview, and saved to PDF. I also used Panic's [ShrinkIt](http://www.panic.com/blog/2010/02/shrinkit-1-0/).
